@@ -1,0 +1,198 @@
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display+SC")
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header{
+    text-align: center;
+    margin-bottom: 103px;
+}
+    
+.title li{
+    display: inline-block;
+    margin-right: 121px;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255);
+}
+
+.title li :not(:last child){
+    margin-right: 121px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.festival{
+    display: inline-block;
+    width: 420px;
+    height: 280px;
+    margin-left: 150px;
+    margin-right: 10px;
+    padding: 0;
+}
+
+.coffee{
+    display: inline-block;
+    width: 420px;
+    height: 280px;
+    margin-left: 60px;
+}
+
+.coffee_photo{
+    width: 420px;
+    height: 280px;
+}
+
+.coffee_subtitle{
+    font-size: 14px;
+    color: rgba(180, 173, 158, 255);
+}
+.coffee_title{
+    font-size: 30px;
+    color: rgba(98, 98, 98, 255);
+}
+
+.coffee_text{
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255);
+}
+
+.dream{
+    display: inline-block;
+    width: 420px;
+    height: 280px;
+    margin-left: 149px;
+    margin-right: 30px;
+}
+.dream_photo{
+    width: 420px;
+    height: 280px; 
+}
+
+.dream_subtitle{
+    font-size: 14px;
+    color: rgba(180, 173, 158, 255);
+}
+
+.dream_title{
+    font-size: 30px;
+    color: rgba(98, 98, 98, 255);
+}
+
+.dream_text{
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255);
+}
+
+.alps{
+    display: inline-block;
+    width: 420px; 
+    height: 280px; 
+}
+
+.alps_photo{
+    width: 420px;
+    height: 280px;   
+}
+
+.alps_subtitle{
+    font-size: 14px;
+    color: rgba(180, 173, 158, 255);
+}
+
+.alps_title{
+    font-size: 30px;
+    color: rgba(98, 98, 98, 255);
+}
+
+.alps_text{
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255);
+}
+
+.song{
+    display: inline-block;
+    width: 420px;  
+    height: 283px;
+    margin-left: 147px;
+}
+
+.song_photo{
+    width: 420px;
+    height: 280px; 
+}
+
+.song_subtitle{
+    font-size: 14px;
+    color: rgba(180, 173, 158, 255);
+}
+
+.song_title{
+    font-size: 30px;
+    color: rgba(98, 98, 98, 255);
+}
+
+.song_text{
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255);
+}
+
+
+.winter{
+    display: inline-block;
+    width: 420px;  
+    height: 283px;
+}
+
+.winter_photo{
+    width: 420px;
+    height: 280px; 
+}
+
+.winter_subtitle{
+    font-size: 14px;
+    color: rgba(180, 173, 158, 255);
+}
+
+.winter_title{
+    font-size: 30px;
+    color: rgba(98, 98, 98, 255);
+}
+
+.winter_text{
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255);
+}
+
+.festival_photo{
+    width: 420px;
+    height: 280px;
+}
+
+.festival_subtitle{
+    font-size: 14px;
+    color: rgba(180, 173, 158, 255);
+}
+
+.festival_title{
+    font-family: 'Playfair Display SC', serif;
+    font-size: 30px;
+    color: rgba(98, 98, 98, 255);
+    text-align: left;
+}
+
+ .festival_text{
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255);
+}
+
